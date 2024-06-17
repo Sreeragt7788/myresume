@@ -1,0 +1,29 @@
+header{
+  background-color: #15792e;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+
+
+p {
+  background-image: ;
+}
+
+u{
+  color: darkgreen;
+}
+
+
+h1{
+  background: rgb(252, 251, 251);
+}
+
+a{
+  justify-content: space-between;
+}
+
+ul{
+  list-style-type: none;
+}
